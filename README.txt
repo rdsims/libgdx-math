@@ -1,0 +1,1 @@
+Place dist/libgdx-math.jar in <user>\wpilib\user\java\lib folder (along with the CTRE libraries) and restart eclipse
